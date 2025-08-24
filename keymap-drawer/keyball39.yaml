@@ -14,7 +14,7 @@ layers:
   - A
   - S
   - D
-  - F
+  - {t: F, h: 'Ctl+$$mdi:arrow-up-bold$$'}
   - G
   - H
   - J
