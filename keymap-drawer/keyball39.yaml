@@ -108,7 +108,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - _
   - +
-  - {t: '`', h: toggle, s: '~'}
+  - {t: '`', s: '~'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: \, s: '|'}
   - {t: '$$mdi:transfer$$', type: trans}
