@@ -138,8 +138,8 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - LANG1
   - LANG2
-  - LANG3
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - LANGUAGE 4
+  - GLOBE
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F9
   - F10
