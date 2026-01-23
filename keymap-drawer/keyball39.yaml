@@ -136,10 +136,10 @@ layers:
   - F7
   - F8
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - LANG1
-  - LANG2
-  - LANGUAGE 4
-  - GLOBE
+  - LANGUAGE 2
+  - Ctl+$$mdi:keyboard-space$$
+  - LANGUAGE 5
+  - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F9
   - F10
